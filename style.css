@@ -1,0 +1,11 @@
+body{
+    background-color: darkgreen;
+}
+.bg-box{
+    width: 1500px;
+    height: 1024px;
+    background-image: url("./img/town.jpg"), url("./img/green-png-44873.png"), url("./img/lamp-png-34914.png"), url("./img/donat.png"), url("./img/hedgehog.webp");
+    background-size: 700px, 300px, 50px, 50px, 50px;
+    background-position: center, bottom, top, right, left ;
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+}
